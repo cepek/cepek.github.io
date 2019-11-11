@@ -10,10 +10,13 @@
 - <a href="https://www.gnu.org/software/gama/">Gama</a>
 - <a href="http://sqltutor.fsv.cvut.cz">SQLtutor</a>
 
+<pre>
+  ,' ,-_-. '.
+ ((_/)o o(\_))
+  `-'(. .)`-'
+      \_/
+</pre>
+
 ## GitHub
 
 - <a href="https://github.com/cepek?tab=repositories">repositories</a>
-
-## GPG
-
-<pre>gpg --keyserver hkp://keys.gnupg.net --search-key 'cepek@gnu.org'</pre>
