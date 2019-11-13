@@ -4,11 +4,14 @@
 # Aleš Čepek
 
 - cepek@gnu.org
-
-## GNU projects
-
 - <a href="https://www.gnu.org/software/gama/">Gama</a>
 - <a href="http://sqltutor.fsv.cvut.cz">SQLtutor</a>
+
+
+- <a href="https://www.minorplanetcenter.net/db_search/show_object?object_id=32596">(32596) Čepek = 2001 QS154</a>
+
+
+- <a href="https://github.com/cepek?tab=repositories">repositories</a>
 
 <pre>
   ,' ,-_-. '.
@@ -17,6 +20,3 @@
       \_/
 </pre>
 
-## GitHub
-
-- <a href="https://github.com/cepek?tab=repositories">repositories</a>
