@@ -20,6 +20,8 @@
       \_/
 </pre>
 
+- Public key fingerprint &nbsp; 29CD 13B2 0AC0 5DBF 8F2E  982B AF2D 6A41 2C5F 6EB8
+
 <pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
