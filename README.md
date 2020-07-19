@@ -20,4 +20,4 @@
       \_/
 </pre>
 
-- Public key fingerprint &nbsp; <a href="http://keys.gnupg.net/pks/lookup?op=vindex&fingerprint=on&search=0xCB6CE60D1B77FC09">C6E1 824E 0180 B85F 31B0  6B6A CB6C E60D 1B77 FC09</a>
+- GPG key fingerprint &nbsp; <a href="http://keys.gnupg.net/pks/lookup?op=vindex&fingerprint=on&search=0xCB6CE60D1B77FC09">C6E1 824E 0180 B85F 31B0  6B6A CB6C E60D 1B77 FC09</a>
